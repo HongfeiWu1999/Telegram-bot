@@ -1,0 +1,64 @@
+01	Araba
+01	Álaba
+01	Álava
+02	Albacete
+03	Alacant
+03	Alicante
+04	Almería
+33	Asturias
+05	Ávila
+06	Badajoz
+08	Barcelona
+48	Bizkaia
+09	Burgos
+10	Cáceres
+11	Cádiz
+39	Cantabria
+12	Castelló
+12	Castellón
+51	Ceuta
+13	Ciudad Real
+14	Córdoba
+15	A Coruña
+16	Cuenca
+17	Girona
+18	Granada
+19	Guadalajara
+20	Gipuzkoa
+21	Huelva
+22	Huesca
+071	Isla de Menorca
+072	Isla de Mallorca
+073	Islas de Ibiza y Formentera
+351	Isla de Lanzarote
+352	Isla de Fuerteventura
+353	Isla de Gran Canaria
+381	Isla de Tenerife
+382	Isla de La Gomera
+383	Isla de La Palma
+384	Isla de El Hierro
+23	Jaén
+24	León
+25	Lleida
+27	Lugo
+28	Madrid
+29	Málaga
+52	Melilla
+30	Murcia
+31	Navarra
+32	Ourense
+34	Palencia
+36	Pontevedra
+26	La Rioja
+37	Salamanca
+40	Segovia
+41	Sevilla
+42	Soria
+43	Tarragona
+44	Teruel
+45	Toledo
+46	València
+46	Valencia
+47	Valladolid
+49	Zamora
+50	Zaragoza
