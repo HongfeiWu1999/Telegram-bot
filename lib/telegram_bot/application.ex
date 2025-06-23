@@ -11,7 +11,7 @@ defmodule TelegramBot.Application do
       # Starts a worker by calling: TelegramBot.Worker.start_link(arg)
       # {TelegramBot.Worker, arg}
       ExGram,
-      {TelegramBot.Bot, [method: :polling, token: "5574050930:AAGCALeY1Np7FNq_Hb6WLmHsREBj3nVFpqc"]},
+      {TelegramBot.Bot, [method: :polling, token: API_KEY]},
       {MyServer,[]}
     ]
 
